@@ -1,0 +1,275 @@
+{
+  "meta": {
+    "title": "DIGITAL VAULT – Slimme Digitale Producten voor het Moderne Leven",
+    "description": "Ontdek praktische gidsen, planners, templates, AI-prompts en digitale tools die je helpen slimmer te werken en meer te bereiken. Directe downloads wereldwijd."
+  },
+  "nav": {
+    "home": "Home",
+    "shop": "Shop",
+    "categories": "Categorieën",
+    "bestSellers": "Bestsellers",
+    "about": "Over ons",
+    "faq": "FAQ",
+    "contact": "Contact",
+    "search": "Zoeken",
+    "cart": "Winkelwagen",
+    "account": "Mijn account",
+    "orders": "Mijn bestellingen",
+    "downloads": "Mijn downloads",
+    "logout": "Uitloggen",
+    "login": "Inloggen",
+    "register": "Account aanmaken"
+  },
+  "announcement": "Directe Digitale Downloads • Veilige Betaling • Wereldwijd Beschikbaar",
+  "hero": {
+    "headline": "Digitale Producten die het Leven Makkelijker Maken",
+    "subheadline": "Ontdek praktische gidsen, templates, planners en digitale tools ontworpen om je te helpen slimmer te werken, georganiseerd te blijven en meer te bereiken.",
+    "shopCta": "DIGITALE PRODUCTEN KOPEN",
+    "bestCta": "BESTSELLERS VERKENNEN"
+  },
+  "categories": {
+    "title": "Shop op categorie",
+    "ebooks": {
+      "title": "eBooks & Gidsen",
+      "description": "Praktische gidsen en diepgaande eBooks voor persoonlijke groei en zakelijk succes."
+    },
+    "planners": {
+      "title": "Planners",
+      "description": "Digitale planners om je dagen, doelen en projecten te organiseren."
+    },
+    "templates": {
+      "title": "Templates",
+      "description": "Kant-en-klare templates voor documenten, presentaties en workflows."
+    },
+    "business": {
+      "title": "Business",
+      "description": "Tools en middelen voor ondernemers en kleine bedrijven."
+    },
+    "productivity": {
+      "title": "Productiviteit",
+      "description": "Systemen en tools om je focus en efficiëntie te verhogen."
+    },
+    "aiPrompts": {
+      "title": "AI-prompts",
+      "description": "Geselecteerde promptcollecties voor betere resultaten met AI-tools."
+    },
+    "socialMedia": {
+      "title": "Social Media",
+      "description": "Contentplanners en templates voor socialemediaplatforms."
+    },
+    "printables": {
+      "title": "Printables",
+      "description": "Mooie printbare werkbladen, trackers en organisers."
+    },
+    "viewProducts": "Bekijk producten"
+  },
+  "bestSellers": {
+    "title": "Bestsellers",
+    "subtitle": "Onze populairste digitale producten, geliefd bij klanten wereldwijd."
+  },
+  "product": {
+    "addToCart": "In winkelwagen",
+    "buyNow": "Nu kopen",
+    "viewProduct": "Bekijk product",
+    "digitalNotice": "Dit is een digitaal product. Er wordt geen fysiek artikel verzonden.",
+    "whatYouGet": "Wat je krijgt",
+    "fileFormat": "Bestandsformaat",
+    "pages": "Pagina's",
+    "compatibility": "Compatibiliteit",
+    "license": "Licentie",
+    "instantDownload": "Directe download",
+    "instantDownloadDesc": "Toegang tot je bestanden direct na aankoop via beveiligde downloadlinks.",
+    "related": "Gerelateerde producten",
+    "faq": "Product-FAQ",
+    "rating": "Beoordeling",
+    "sale": "Aanbieding",
+    "outOfStock": "Momenteel niet beschikbaar",
+    "sku": "SKU"
+  },
+  "shop": {
+    "title": "Alle producten",
+    "searchPlaceholder": "Zoek producten...",
+    "filters": "Filters",
+    "sortBy": "Sorteer op",
+    "newest": "Nieuwste",
+    "bestSelling": "Bestsellers",
+    "highestRated": "Hoogst beoordeeld",
+    "priceLowHigh": "Prijs: laag naar hoog",
+    "priceHighLow": "Prijs: hoog naar laag",
+    "discount": "In de aanbieding",
+    "noResults": "Geen producten gevonden die aan je criteria voldoen.",
+    "showing": "{count} producten worden weergegeven",
+    "clearFilters": "Filters wissen"
+  },
+  "cart": {
+    "title": "Winkelwagen",
+    "empty": "Je winkelwagen is leeg.",
+    "continueShopping": "Verder winkelen",
+    "subtotal": "Subtotaal",
+    "total": "Totaal",
+    "checkout": "Afrekenen",
+    "remove": "Verwijderen",
+    "quantity": "Aantal",
+    "item": "Artikel",
+    "price": "Prijs"
+  },
+  "checkout": {
+    "title": "Afrekenen",
+    "customerInfo": "Klantgegevens",
+    "name": "Volledige naam",
+    "email": "E-mailadres",
+    "country": "Land",
+    "orderSummary": "Besteloverzicht",
+    "promoCode": "Promo- / kortingscode",
+    "apply": "Toepassen",
+    "paymentMethod": "Betaalmethode",
+    "stripe": "Credit- / debetkaart (Stripe)",
+    "paypal": "PayPal",
+    "terms": "Ik ga akkoord met de Algemene voorwaarden en het Restitutiebeleid",
+    "placeOrder": "Bestelling plaatsen",
+    "secure": "Veilige checkout – Je gegevens zijn beschermd",
+    "processing": "Bezig met verwerken...",
+    "note": "Betalingsverwerking vereist echte Stripe- / PayPal-inloggegevens. Dit is een frontend-demo."
+  },
+  "account": {
+    "title": "Mijn account",
+    "orders": "Mijn bestellingen",
+    "downloads": "Mijn downloads",
+    "profile": "Profiel",
+    "loginTitle": "Inloggen",
+    "registerTitle": "Account aanmaken",
+    "email": "E-mail",
+    "password": "Wachtwoord",
+    "confirmPassword": "Bevestig wachtwoord",
+    "forgotPassword": "Wachtwoord vergeten?",
+    "noAccount": "Nog geen account?",
+    "hasAccount": "Al een account?",
+    "loginBtn": "Inloggen",
+    "registerBtn": "Account aanmaken",
+    "logoutBtn": "Uitloggen",
+    "updateProfile": "Profiel bijwerken",
+    "orderHistory": "Bestelgeschiedenis",
+    "noOrders": "Je hebt nog geen bestellingen.",
+    "download": "Downloaden",
+    "expires": "Link verloopt",
+    "note": "Het accountsysteem vereist backend-authenticatie. Demomodus gebruikt localStorage."
+  },
+  "order": {
+    "confirmation": "Bestelling bevestigd!",
+    "thankYou": "Bedankt voor je aankoop.",
+    "orderNumber": "Bestelnummer",
+    "downloads": "Jouw downloads",
+    "downloadNow": "Nu downloaden",
+    "emailSent": "Een bevestigingsmail met downloadlinks is naar je inbox gestuurd.",
+    "failed": "Betaling mislukt",
+    "tryAgain": "Probeer het opnieuw of neem contact op met support."
+  },
+  "faq": {
+    "title": "Veelgestelde vragen",
+    "q1": "Hoe ontvang ik mijn product?",
+    "a1": "Na succesvolle betaling ontvang je een e-mail met beveiligde downloadlinks. Je kunt je aankopen ook vinden onder Mijn account → Mijn downloads.",
+    "q2": "Zijn de producten digitaal?",
+    "a2": "Ja. Alle producten zijn digitale downloads. Er worden geen fysieke artikelen verzonden.",
+    "q3": "Kan ik de producten op mijn telefoon gebruiken?",
+    "a3": "De meeste producten zijn PDF of gangbare formaten die compatibel zijn met telefoons, tablets en computers. Controleer de productpagina voor specifieke compatibiliteit.",
+    "q4": "Wanneer ontvang ik mijn download?",
+    "a4": "Direct na betalingsbevestiging. Downloads zijn binnen seconden beschikbaar.",
+    "q5": "Kan ik het product meerdere keren downloaden?",
+    "a5": "Ja. Je kunt je gekochte bestanden voor een beperkte periode opnieuw downloaden vanuit je account, zoals vermeld in de licentie.",
+    "q6": "Welke betaalmethoden accepteren jullie?",
+    "a6": "We accepteren gangbare credit-/debetkaarten via Stripe en PayPal. Extra methoden kunnen later worden toegevoegd.",
+    "q7": "Kan ik een terugbetaling krijgen?",
+    "a7": "Vanwege de aard van digitale producten worden terugbetalingen afgehandeld volgens ons Restitutiebeleid. Lees dit voor aankoop.",
+    "q8": "Hoe kan ik support contacteren?",
+    "a8": "Mail ons op support@example.com of gebruik het contactformulier. We reageren doorgaans binnen 24–48 uur."
+  },
+  "contact": {
+    "title": "Neem contact op",
+    "subtitle": "We zijn er om te helpen. Stuur ons een bericht en we reageren zo snel mogelijk.",
+    "name": "Naam",
+    "email": "E-mail",
+    "subject": "Onderwerp",
+    "message": "Bericht",
+    "send": "Bericht versturen",
+    "support": "Klantenservice",
+    "emailLabel": "E-mail",
+    "success": "Bericht succesvol verzonden. We antwoorden spoedig.",
+    "note": "Het contactformulier vereist configuratie van een backend-e-maildienst."
+  },
+  "about": {
+    "title": "Over DIGITAL VAULT",
+    "p1": "DIGITAL VAULT maakt praktische digitale producten die mensen helpen slimmer te werken, georganiseerd te blijven en meer te bereiken.",
+    "p2": "Van planners en templates tot AI-prompts en businessgidsen is elk product ontworpen met echt nut in gedachten.",
+    "p3": "We bedienen klanten wereldwijd met directe digitale levering en focus op kwaliteit en duidelijkheid."
+  },
+  "newsletter": {
+    "title": "Ontvang gratis digitale resources & speciale aanbiedingen",
+    "placeholder": "Voer je e-mailadres in",
+    "button": "ABONNEREN",
+    "success": "Bedankt voor je abonnement!",
+    "note": "Nieuwsbrief vereist Mailchimp- / Brevo- / ConvertKit-integratie."
+  },
+  "footer": {
+    "shop": "Shop",
+    "categories": "Categorieën",
+    "about": "Over ons",
+    "contact": "Contact",
+    "faq": "FAQ",
+    "privacy": "Privacybeleid",
+    "terms": "Algemene voorwaarden",
+    "refund": "Restitutiebeleid",
+    "cookies": "Cookiebeleid",
+    "license": "Digitale licentie",
+    "findUs": "Vind ons online",
+    "etsy": "Shop op Etsy",
+    "payhip": "Shop op Payhip",
+    "copyright": "© 2026 DIGITAL VAULT. Alle rechten voorbehouden.",
+    "tagline": "Slimme Digitale Producten voor het Moderne Leven"
+  },
+  "legal": {
+    "privacyTitle": "Privacybeleid",
+    "termsTitle": "Algemene voorwaarden",
+    "refundTitle": "Restitutiebeleid",
+    "cookieTitle": "Cookiebeleid",
+    "licenseTitle": "Licentie digitaal product"
+  },
+  "errors": {
+    "404Title": "Pagina niet gevonden",
+    "404Message": "De pagina die je zoekt bestaat niet of is verplaatst.",
+    "500Title": "Er is iets misgegaan",
+    "500Message": "Er is een onverwachte fout opgetreden. Probeer het later opnieuw.",
+    "emptyCart": "Je winkelwagen is leeg.",
+    "noProducts": "Geen producten beschikbaar in deze categorie.",
+    "downloadUnavailable": "Deze download is niet meer beschikbaar of is verlopen.",
+    "invalidDownload": "Ongeldige of verlopen downloadlink.",
+    "loginError": "Ongeldig e-mailadres of wachtwoord.",
+    "registerError": "Account kon niet worden aangemaakt. Probeer het opnieuw.",
+    "paymentFailed": "Betaling kon niet worden verwerkt.",
+    "backHome": "Terug naar home"
+  },
+  "cookie": {
+    "message": "We gebruiken cookies om je ervaring te verbeteren en verkeer te analyseren. Je kunt je voorkeuren beheren.",
+    "accept": "Alles accepteren",
+    "reject": "Niet-essentiële weigeren",
+    "settings": "Cookie-instellingen",
+    "save": "Voorkeuren opslaan"
+  },
+  "currency": {
+    "eur": "EUR €",
+    "usd": "USD $",
+    "gbp": "GBP £",
+    "ron": "RON lei"
+  },
+  "common": {
+    "loading": "Laden...",
+    "save": "Opslaan",
+    "cancel": "Annuleren",
+    "close": "Sluiten",
+    "yes": "Ja",
+    "no": "Nee",
+    "or": "of",
+    "and": "en",
+    "from": "van",
+    "to": "tot"
+  }
+}

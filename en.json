@@ -1,0 +1,275 @@
+{
+  "meta": {
+    "title": "DIGITAL VAULT – Smart Digital Products for Modern Life",
+    "description": "Discover practical eBooks, planners, templates, AI prompts and digital tools designed to help you work smarter and achieve more. Instant downloads worldwide."
+  },
+  "nav": {
+    "home": "Home",
+    "shop": "Shop",
+    "categories": "Categories",
+    "bestSellers": "Best Sellers",
+    "about": "About",
+    "faq": "FAQ",
+    "contact": "Contact",
+    "search": "Search",
+    "cart": "Cart",
+    "account": "My Account",
+    "orders": "My Orders",
+    "downloads": "My Downloads",
+    "logout": "Logout",
+    "login": "Login",
+    "register": "Create Account"
+  },
+  "announcement": "Instant Digital Downloads • Secure Checkout • Available Worldwide",
+  "hero": {
+    "headline": "Digital Products That Make Life Easier",
+    "subheadline": "Discover practical guides, templates, planners and digital tools designed to help you work smarter, stay organized and achieve more.",
+    "shopCta": "SHOP DIGITAL PRODUCTS",
+    "bestCta": "EXPLORE BEST SELLERS"
+  },
+  "categories": {
+    "title": "Shop by Category",
+    "ebooks": {
+      "title": "eBooks & Guides",
+      "description": "Practical guides and in-depth eBooks for personal growth and business success."
+    },
+    "planners": {
+      "title": "Planners",
+      "description": "Digital planners to organize your days, goals and projects."
+    },
+    "templates": {
+      "title": "Templates",
+      "description": "Ready-to-use templates for documents, presentations and workflows."
+    },
+    "business": {
+      "title": "Business",
+      "description": "Tools and resources for entrepreneurs and small businesses."
+    },
+    "productivity": {
+      "title": "Productivity",
+      "description": "Systems and tools to boost your focus and efficiency."
+    },
+    "aiPrompts": {
+      "title": "AI Prompts",
+      "description": "Curated prompt collections to get better results from AI tools."
+    },
+    "socialMedia": {
+      "title": "Social Media",
+      "description": "Content planners and templates for social platforms."
+    },
+    "printables": {
+      "title": "Printables",
+      "description": "Beautiful printable worksheets, trackers and organizers."
+    },
+    "viewProducts": "View Products"
+  },
+  "bestSellers": {
+    "title": "Best Sellers",
+    "subtitle": "Our most popular digital products, loved by customers worldwide."
+  },
+  "product": {
+    "addToCart": "Add to Cart",
+    "buyNow": "Buy Now",
+    "viewProduct": "View Product",
+    "digitalNotice": "This is a digital product. No physical item will be shipped.",
+    "whatYouGet": "What You Get",
+    "fileFormat": "File Format",
+    "pages": "Pages",
+    "compatibility": "Compatibility",
+    "license": "License",
+    "instantDownload": "Instant Download",
+    "instantDownloadDesc": "Access your files immediately after purchase via secure download links.",
+    "related": "Related Products",
+    "faq": "Product FAQ",
+    "rating": "Rating",
+    "sale": "Sale",
+    "outOfStock": "Currently unavailable",
+    "sku": "SKU"
+  },
+  "shop": {
+    "title": "Shop All Products",
+    "searchPlaceholder": "Search products...",
+    "filters": "Filters",
+    "sortBy": "Sort by",
+    "newest": "Newest",
+    "bestSelling": "Best Selling",
+    "highestRated": "Highest Rated",
+    "priceLowHigh": "Price: Low to High",
+    "priceHighLow": "Price: High to Low",
+    "discount": "On Sale",
+    "noResults": "No products found matching your criteria.",
+    "showing": "Showing {count} products",
+    "clearFilters": "Clear filters"
+  },
+  "cart": {
+    "title": "Shopping Cart",
+    "empty": "Your cart is empty.",
+    "continueShopping": "Continue Shopping",
+    "subtotal": "Subtotal",
+    "total": "Total",
+    "checkout": "Proceed to Checkout",
+    "remove": "Remove",
+    "quantity": "Quantity",
+    "item": "Item",
+    "price": "Price"
+  },
+  "checkout": {
+    "title": "Checkout",
+    "customerInfo": "Customer Information",
+    "name": "Full Name",
+    "email": "Email Address",
+    "country": "Country",
+    "orderSummary": "Order Summary",
+    "promoCode": "Promo / Discount Code",
+    "apply": "Apply",
+    "paymentMethod": "Payment Method",
+    "stripe": "Credit / Debit Card (Stripe)",
+    "paypal": "PayPal",
+    "terms": "I agree to the Terms & Conditions and Refund Policy",
+    "placeOrder": "Place Order",
+    "secure": "Secure Checkout – Your data is protected",
+    "processing": "Processing...",
+    "note": "Payment processing requires real Stripe / PayPal credentials. This is a frontend demo."
+  },
+  "account": {
+    "title": "My Account",
+    "orders": "My Orders",
+    "downloads": "My Downloads",
+    "profile": "Profile",
+    "loginTitle": "Log In",
+    "registerTitle": "Create Account",
+    "email": "Email",
+    "password": "Password",
+    "confirmPassword": "Confirm Password",
+    "forgotPassword": "Forgot password?",
+    "noAccount": "Don't have an account?",
+    "hasAccount": "Already have an account?",
+    "loginBtn": "Log In",
+    "registerBtn": "Create Account",
+    "logoutBtn": "Log Out",
+    "updateProfile": "Update Profile",
+    "orderHistory": "Order History",
+    "noOrders": "You have no orders yet.",
+    "download": "Download",
+    "expires": "Link expires",
+    "note": "Account system requires backend authentication. Demo mode uses localStorage."
+  },
+  "order": {
+    "confirmation": "Order Confirmed!",
+    "thankYou": "Thank you for your purchase.",
+    "orderNumber": "Order Number",
+    "downloads": "Your Downloads",
+    "downloadNow": "Download Now",
+    "emailSent": "A confirmation email with download links has been sent to your inbox.",
+    "failed": "Payment Failed",
+    "tryAgain": "Please try again or contact support."
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "q1": "How do I receive my product?",
+    "a1": "After successful payment you will receive an email with secure download links. You can also access your purchases from My Account → My Downloads.",
+    "q2": "Are the products digital?",
+    "a2": "Yes. All products are digital downloads. No physical items are shipped.",
+    "q3": "Can I use the products on my phone?",
+    "a3": "Most products are PDF or common formats compatible with phones, tablets and computers. Check the product page for specific compatibility.",
+    "q4": "When will I receive my download?",
+    "a4": "Immediately after payment confirmation. Downloads are available within seconds.",
+    "q5": "Can I download the product more than once?",
+    "a5": "Yes. You can re-download your purchased files from your account for a limited period as stated in the license.",
+    "q6": "What payment methods do you accept?",
+    "a6": "We accept major credit/debit cards via Stripe and PayPal. Additional methods may be added later.",
+    "q7": "Can I get a refund?",
+    "a7": "Due to the nature of digital products, refunds are handled according to our Refund Policy. Please review it before purchasing.",
+    "q8": "How can I contact support?",
+    "a8": "Email us at support@example.com or use the contact form. We typically respond within 24–48 hours."
+  },
+  "contact": {
+    "title": "Contact Us",
+    "subtitle": "We're here to help. Send us a message and we'll get back to you as soon as possible.",
+    "name": "Name",
+    "email": "Email",
+    "subject": "Subject",
+    "message": "Message",
+    "send": "Send Message",
+    "support": "Customer Support",
+    "emailLabel": "Email",
+    "success": "Message sent successfully. We will reply soon.",
+    "note": "Contact form requires backend email service configuration."
+  },
+  "about": {
+    "title": "About DIGITAL VAULT",
+    "p1": "DIGITAL VAULT creates practical digital products that help people work smarter, stay organized and achieve more.",
+    "p2": "From planners and templates to AI prompts and business guides, every product is designed with real-world usefulness in mind.",
+    "p3": "We serve customers worldwide with instant digital delivery and a focus on quality and clarity."
+  },
+  "newsletter": {
+    "title": "Get Free Digital Resources & Special Offers",
+    "placeholder": "Enter your email address",
+    "button": "SUBSCRIBE",
+    "success": "Thank you for subscribing!",
+    "note": "Newsletter requires Mailchimp / Brevo / ConvertKit integration."
+  },
+  "footer": {
+    "shop": "Shop",
+    "categories": "Categories",
+    "about": "About",
+    "contact": "Contact",
+    "faq": "FAQ",
+    "privacy": "Privacy Policy",
+    "terms": "Terms & Conditions",
+    "refund": "Refund Policy",
+    "cookies": "Cookie Policy",
+    "license": "Digital License",
+    "findUs": "Find Us Online",
+    "etsy": "Shop on Etsy",
+    "payhip": "Shop on Payhip",
+    "copyright": "© 2026 DIGITAL VAULT. All rights reserved.",
+    "tagline": "Smart Digital Products for Modern Life"
+  },
+  "legal": {
+    "privacyTitle": "Privacy Policy",
+    "termsTitle": "Terms & Conditions",
+    "refundTitle": "Refund Policy",
+    "cookieTitle": "Cookie Policy",
+    "licenseTitle": "Digital Product License"
+  },
+  "errors": {
+    "404Title": "Page Not Found",
+    "404Message": "The page you are looking for does not exist or has been moved.",
+    "500Title": "Something Went Wrong",
+    "500Message": "We encountered an unexpected error. Please try again later.",
+    "emptyCart": "Your cart is empty.",
+    "noProducts": "No products available in this category.",
+    "downloadUnavailable": "This download is no longer available or has expired.",
+    "invalidDownload": "Invalid or expired download link.",
+    "loginError": "Invalid email or password.",
+    "registerError": "Could not create account. Please try again.",
+    "paymentFailed": "Payment could not be processed.",
+    "backHome": "Back to Home"
+  },
+  "cookie": {
+    "message": "We use cookies to improve your experience and analyze traffic. You can manage your preferences.",
+    "accept": "Accept All",
+    "reject": "Reject Non-Essential",
+    "settings": "Cookie Settings",
+    "save": "Save Preferences"
+  },
+  "currency": {
+    "eur": "EUR €",
+    "usd": "USD $",
+    "gbp": "GBP £",
+    "ron": "RON lei"
+  },
+  "common": {
+    "loading": "Loading...",
+    "save": "Save",
+    "cancel": "Cancel",
+    "close": "Close",
+    "yes": "Yes",
+    "no": "No",
+    "or": "or",
+    "and": "and",
+    "from": "from",
+    "to": "to"
+  }
+}

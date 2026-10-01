@@ -1,0 +1,275 @@
+{
+  "meta": {
+    "title": "DIGITAL VAULT – Clevere digitale Produkte für das moderne Leben",
+    "description": "Entdecke praktische Ratgeber, Planer, Vorlagen, AI-Prompts und digitale Tools, die dir helfen, smarter zu arbeiten und mehr zu erreichen. Sofortiger Download weltweit."
+  },
+  "nav": {
+    "home": "Startseite",
+    "shop": "Shop",
+    "categories": "Kategorien",
+    "bestSellers": "Bestseller",
+    "about": "Über uns",
+    "faq": "FAQ",
+    "contact": "Kontakt",
+    "search": "Suche",
+    "cart": "Warenkorb",
+    "account": "Mein Konto",
+    "orders": "Meine Bestellungen",
+    "downloads": "Meine Downloads",
+    "logout": "Abmelden",
+    "login": "Anmelden",
+    "register": "Konto erstellen"
+  },
+  "announcement": "Sofortiger Digital-Download • Sichere Zahlung • Weltweit verfügbar",
+  "hero": {
+    "headline": "Digitale Produkte, die das Leben leichter machen",
+    "subheadline": "Entdecke praktische Ratgeber, Vorlagen, Planer und digitale Tools, die dir helfen, smarter zu arbeiten, organisiert zu bleiben und mehr zu erreichen.",
+    "shopCta": "DIGITALE PRODUKTE KAUFEN",
+    "bestCta": "BESTSELLER ENTDECKEN"
+  },
+  "categories": {
+    "title": "Nach Kategorie shoppen",
+    "ebooks": {
+      "title": "eBooks & Ratgeber",
+      "description": "Praktische Ratgeber und ausführliche eBooks für persönliches Wachstum und Geschäftserfolg."
+    },
+    "planners": {
+      "title": "Planer",
+      "description": "Digitale Planer zur Organisation deiner Tage, Ziele und Projekte."
+    },
+    "templates": {
+      "title": "Vorlagen",
+      "description": "Fertige Vorlagen für Dokumente, Präsentationen und Workflows."
+    },
+    "business": {
+      "title": "Business",
+      "description": "Tools und Ressourcen für Unternehmer und kleine Unternehmen."
+    },
+    "productivity": {
+      "title": "Produktivität",
+      "description": "Systeme und Tools zur Steigerung von Fokus und Effizienz."
+    },
+    "aiPrompts": {
+      "title": "AI-Prompts",
+      "description": "Kuratierte Prompt-Sammlungen für bessere Ergebnisse mit KI-Tools."
+    },
+    "socialMedia": {
+      "title": "Social Media",
+      "description": "Content-Planer und Vorlagen für Social-Media-Plattformen."
+    },
+    "printables": {
+      "title": "Druckvorlagen",
+      "description": "Schöne druckbare Arbeitsblätter, Tracker und Organizer."
+    },
+    "viewProducts": "Produkte ansehen"
+  },
+  "bestSellers": {
+    "title": "Bestseller",
+    "subtitle": "Unsere beliebtesten digitalen Produkte, geschätzt von Kunden weltweit."
+  },
+  "product": {
+    "addToCart": "In den Warenkorb",
+    "buyNow": "Jetzt kaufen",
+    "viewProduct": "Produkt ansehen",
+    "digitalNotice": "Dies ist ein digitales Produkt. Es wird kein physischer Artikel versendet.",
+    "whatYouGet": "Was du erhältst",
+    "fileFormat": "Dateiformat",
+    "pages": "Seiten",
+    "compatibility": "Kompatibilität",
+    "license": "Lizenz",
+    "instantDownload": "Sofortiger Download",
+    "instantDownloadDesc": "Zugriff auf deine Dateien sofort nach dem Kauf über sichere Download-Links.",
+    "related": "Ähnliche Produkte",
+    "faq": "Produkt-FAQ",
+    "rating": "Bewertung",
+    "sale": "Angebot",
+    "outOfStock": "Derzeit nicht verfügbar",
+    "sku": "SKU"
+  },
+  "shop": {
+    "title": "Alle Produkte",
+    "searchPlaceholder": "Produkte suchen...",
+    "filters": "Filter",
+    "sortBy": "Sortieren nach",
+    "newest": "Neueste",
+    "bestSelling": "Bestseller",
+    "highestRated": "Bestbewertet",
+    "priceLowHigh": "Preis: aufsteigend",
+    "priceHighLow": "Preis: absteigend",
+    "discount": "Im Angebot",
+    "noResults": "Keine Produkte gefunden, die Ihren Kriterien entsprechen.",
+    "showing": "{count} Produkte werden angezeigt",
+    "clearFilters": "Filter zurücksetzen"
+  },
+  "cart": {
+    "title": "Warenkorb",
+    "empty": "Dein Warenkorb ist leer.",
+    "continueShopping": "Weiter einkaufen",
+    "subtotal": "Zwischensumme",
+    "total": "Gesamt",
+    "checkout": "Zur Kasse",
+    "remove": "Entfernen",
+    "quantity": "Menge",
+    "item": "Artikel",
+    "price": "Preis"
+  },
+  "checkout": {
+    "title": "Kasse",
+    "customerInfo": "Kundeninformationen",
+    "name": "Vollständiger Name",
+    "email": "E-Mail-Adresse",
+    "country": "Land",
+    "orderSummary": "Bestellübersicht",
+    "promoCode": "Promo- / Rabattcode",
+    "apply": "Anwenden",
+    "paymentMethod": "Zahlungsmethode",
+    "stripe": "Kredit- / Debitkarte (Stripe)",
+    "paypal": "PayPal",
+    "terms": "Ich stimme den AGB und der Rückerstattungsrichtlinie zu",
+    "placeOrder": "Bestellung aufgeben",
+    "secure": "Sichere Zahlung – Deine Daten sind geschützt",
+    "processing": "Wird verarbeitet...",
+    "note": "Die Zahlungsabwicklung erfordert echte Stripe- / PayPal-Zugangsdaten. Dies ist eine Frontend-Demo."
+  },
+  "account": {
+    "title": "Mein Konto",
+    "orders": "Meine Bestellungen",
+    "downloads": "Meine Downloads",
+    "profile": "Profil",
+    "loginTitle": "Anmelden",
+    "registerTitle": "Konto erstellen",
+    "email": "E-Mail",
+    "password": "Passwort",
+    "confirmPassword": "Passwort bestätigen",
+    "forgotPassword": "Passwort vergessen?",
+    "noAccount": "Noch kein Konto?",
+    "hasAccount": "Bereits ein Konto?",
+    "loginBtn": "Anmelden",
+    "registerBtn": "Konto erstellen",
+    "logoutBtn": "Abmelden",
+    "updateProfile": "Profil aktualisieren",
+    "orderHistory": "Bestellhistorie",
+    "noOrders": "Du hast noch keine Bestellungen.",
+    "download": "Herunterladen",
+    "expires": "Link läuft ab",
+    "note": "Das Kontosystem erfordert Backend-Authentifizierung. Der Demo-Modus verwendet localStorage."
+  },
+  "order": {
+    "confirmation": "Bestellung bestätigt!",
+    "thankYou": "Vielen Dank für deinen Einkauf.",
+    "orderNumber": "Bestellnummer",
+    "downloads": "Deine Downloads",
+    "downloadNow": "Jetzt herunterladen",
+    "emailSent": "Eine Bestätigungs-E-Mail mit Download-Links wurde an dein Postfach gesendet.",
+    "failed": "Zahlung fehlgeschlagen",
+    "tryAgain": "Bitte versuche es erneut oder kontaktiere den Support."
+  },
+  "faq": {
+    "title": "Häufig gestellte Fragen",
+    "q1": "Wie erhalte ich mein Produkt?",
+    "a1": "Nach erfolgreicher Zahlung erhältst du eine E-Mail mit sicheren Download-Links. Du kannst deine Käufe auch unter Mein Konto → Meine Downloads abrufen.",
+    "q2": "Sind die Produkte digital?",
+    "a2": "Ja. Alle Produkte sind digitale Downloads. Es werden keine physischen Artikel versendet.",
+    "q3": "Kann ich die Produkte auf meinem Handy nutzen?",
+    "a3": "Die meisten Produkte sind PDFs oder gängige Formate, die mit Handys, Tablets und Computern kompatibel sind. Prüfe die Produktseite auf spezifische Kompatibilität.",
+    "q4": "Wann erhalte ich meinen Download?",
+    "a4": "Sofort nach Zahlungsbestätigung. Downloads sind innerhalb von Sekunden verfügbar.",
+    "q5": "Kann ich das Produkt mehrfach herunterladen?",
+    "a5": "Ja. Du kannst deine gekauften Dateien für einen begrenzten Zeitraum aus deinem Konto erneut herunterladen, wie in der Lizenz angegeben.",
+    "q6": "Welche Zahlungsmethoden akzeptiert ihr?",
+    "a6": "Wir akzeptieren gängige Kredit-/Debitkarten über Stripe und PayPal. Weitere Methoden können später hinzugefügt werden.",
+    "q7": "Kann ich eine Rückerstattung erhalten?",
+    "a7": "Aufgrund der Natur digitaler Produkte werden Rückerstattungen gemäß unserer Rückerstattungsrichtlinie behandelt. Bitte lies sie vor dem Kauf.",
+    "q8": "Wie kann ich den Support kontaktieren?",
+    "a8": "Schreibe uns an support@example.com oder nutze das Kontaktformular. Wir antworten in der Regel innerhalb von 24–48 Stunden."
+  },
+  "contact": {
+    "title": "Kontaktiere uns",
+    "subtitle": "Wir sind hier, um zu helfen. Sende uns eine Nachricht und wir melden uns so schnell wie möglich.",
+    "name": "Name",
+    "email": "E-Mail",
+    "subject": "Betreff",
+    "message": "Nachricht",
+    "send": "Nachricht senden",
+    "support": "Kundensupport",
+    "emailLabel": "E-Mail",
+    "success": "Nachricht erfolgreich gesendet. Wir antworten bald.",
+    "note": "Das Kontaktformular erfordert die Konfiguration eines Backend-E-Mail-Dienstes."
+  },
+  "about": {
+    "title": "Über DIGITAL VAULT",
+    "p1": "DIGITAL VAULT erstellt praktische digitale Produkte, die Menschen helfen, smarter zu arbeiten, organisiert zu bleiben und mehr zu erreichen.",
+    "p2": "Von Planern und Vorlagen bis hin zu AI-Prompts und Business-Ratgebern ist jedes Produkt mit realem Nutzen im Fokus gestaltet.",
+    "p3": "Wir bedienen Kunden weltweit mit sofortiger digitaler Lieferung und einem Fokus auf Qualität und Klarheit."
+  },
+  "newsletter": {
+    "title": "Erhalte kostenlose digitale Ressourcen & Sonderangebote",
+    "placeholder": "Gib deine E-Mail-Adresse ein",
+    "button": "ABONNIEREN",
+    "success": "Vielen Dank fürs Abonnieren!",
+    "note": "Der Newsletter erfordert eine Mailchimp- / Brevo- / ConvertKit-Integration."
+  },
+  "footer": {
+    "shop": "Shop",
+    "categories": "Kategorien",
+    "about": "Über uns",
+    "contact": "Kontakt",
+    "faq": "FAQ",
+    "privacy": "Datenschutz",
+    "terms": "AGB",
+    "refund": "Rückerstattungsrichtlinie",
+    "cookies": "Cookie-Richtlinie",
+    "license": "Digitale Lizenz",
+    "findUs": "Finde uns online",
+    "etsy": "Auf Etsy kaufen",
+    "payhip": "Auf Payhip kaufen",
+    "copyright": "© 2026 DIGITAL VAULT. Alle Rechte vorbehalten.",
+    "tagline": "Clevere digitale Produkte für das moderne Leben"
+  },
+  "legal": {
+    "privacyTitle": "Datenschutzerklärung",
+    "termsTitle": "Allgemeine Geschäftsbedingungen",
+    "refundTitle": "Rückerstattungsrichtlinie",
+    "cookieTitle": "Cookie-Richtlinie",
+    "licenseTitle": "Lizenz für digitale Produkte"
+  },
+  "errors": {
+    "404Title": "Seite nicht gefunden",
+    "404Message": "Die gesuchte Seite existiert nicht oder wurde verschoben.",
+    "500Title": "Etwas ist schiefgelaufen",
+    "500Message": "Es ist ein unerwarteter Fehler aufgetreten. Bitte versuche es später erneut.",
+    "emptyCart": "Dein Warenkorb ist leer.",
+    "noProducts": "In dieser Kategorie sind keine Produkte verfügbar.",
+    "downloadUnavailable": "Dieser Download ist nicht mehr verfügbar oder abgelaufen.",
+    "invalidDownload": "Ungültiger oder abgelaufener Download-Link.",
+    "loginError": "Ungültige E-Mail oder Passwort.",
+    "registerError": "Konto konnte nicht erstellt werden. Bitte versuche es erneut.",
+    "paymentFailed": "Zahlung konnte nicht verarbeitet werden.",
+    "backHome": "Zurück zur Startseite"
+  },
+  "cookie": {
+    "message": "Wir verwenden Cookies, um dein Erlebnis zu verbessern und den Traffic zu analysieren. Du kannst deine Präferenzen verwalten.",
+    "accept": "Alle akzeptieren",
+    "reject": "Nicht-essenzielle ablehnen",
+    "settings": "Cookie-Einstellungen",
+    "save": "Einstellungen speichern"
+  },
+  "currency": {
+    "eur": "EUR €",
+    "usd": "USD $",
+    "gbp": "GBP £",
+    "ron": "RON lei"
+  },
+  "common": {
+    "loading": "Wird geladen...",
+    "save": "Speichern",
+    "cancel": "Abbrechen",
+    "close": "Schließen",
+    "yes": "Ja",
+    "no": "Nein",
+    "or": "oder",
+    "and": "und",
+    "from": "von",
+    "to": "bis"
+  }
+}

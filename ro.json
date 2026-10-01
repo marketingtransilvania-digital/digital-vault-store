@@ -1,0 +1,275 @@
+{
+  "meta": {
+    "title": "DIGITAL VAULT – Produse Digitale Inteligente pentru Viața Modernă",
+    "description": "Descoperă ghiduri practice, planificatoare, template-uri, prompturi AI și unelte digitale care te ajută să lucrezi mai inteligent și să obții mai mult. Descărcări instantanee în toată lumea."
+  },
+  "nav": {
+    "home": "Acasă",
+    "shop": "Magazin",
+    "categories": "Categorii",
+    "bestSellers": "Cele mai vândute",
+    "about": "Despre noi",
+    "faq": "Întrebări frecvente",
+    "contact": "Contact",
+    "search": "Caută",
+    "cart": "Coș",
+    "account": "Contul meu",
+    "orders": "Comenzile mele",
+    "downloads": "Descărcările mele",
+    "logout": "Deconectare",
+    "login": "Autentificare",
+    "register": "Creează cont"
+  },
+  "announcement": "Descărcări Digitale Instantanee • Plată Securizată • Disponibil la Nivel Mondial",
+  "hero": {
+    "headline": "Produse Digitale Care Îți Fac Viața Mai Ușoară",
+    "subheadline": "Descoperă ghiduri practice, template-uri, planificatoare și unelte digitale create pentru a te ajuta să lucrezi mai inteligent, să fii organizat și să obții mai mult.",
+    "shopCta": "CUMPĂRĂ PRODUSE DIGITALE",
+    "bestCta": "EXPLOREAZĂ CELE MAI VÂNDUTE"
+  },
+  "categories": {
+    "title": "Cumpără pe categorii",
+    "ebooks": {
+      "title": "eBook-uri & Ghiduri",
+      "description": "Ghiduri practice și eBook-uri detaliate pentru dezvoltare personală și succes în afaceri."
+    },
+    "planners": {
+      "title": "Planificatoare",
+      "description": "Planificatoare digitale pentru a-ți organiza zilele, obiectivele și proiectele."
+    },
+    "templates": {
+      "title": "Template-uri",
+      "description": "Template-uri gata de folosit pentru documente, prezentări și fluxuri de lucru."
+    },
+    "business": {
+      "title": "Business",
+      "description": "Unelte și resurse pentru antreprenori și afaceri mici."
+    },
+    "productivity": {
+      "title": "Productivitate",
+      "description": "Sisteme și unelte pentru a-ți crește focusul și eficiența."
+    },
+    "aiPrompts": {
+      "title": "Prompturi AI",
+      "description": "Colecții de prompturi selectate pentru rezultate mai bune cu uneltele AI."
+    },
+    "socialMedia": {
+      "title": "Social Media",
+      "description": "Planificatoare de conținut și template-uri pentru platforme sociale."
+    },
+    "printables": {
+      "title": "Printabile",
+      "description": "Fișe de lucru, trackere și organizatoare frumoase, gata de printat."
+    },
+    "viewProducts": "Vezi produsele"
+  },
+  "bestSellers": {
+    "title": "Cele mai vândute",
+    "subtitle": "Produsele noastre digitale cele mai populare, apreciate de clienți din întreaga lume."
+  },
+  "product": {
+    "addToCart": "Adaugă în coș",
+    "buyNow": "Cumpără acum",
+    "viewProduct": "Vezi produsul",
+    "digitalNotice": "Acesta este un produs digital. Nu se va expedia niciun articol fizic.",
+    "whatYouGet": "Ce primești",
+    "fileFormat": "Format fișier",
+    "pages": "Pagini",
+    "compatibility": "Compatibilitate",
+    "license": "Licență",
+    "instantDownload": "Descărcare instantanee",
+    "instantDownloadDesc": "Accesează fișierele imediat după cumpărare prin linkuri securizate de descărcare.",
+    "related": "Produse similare",
+    "faq": "Întrebări despre produs",
+    "rating": "Evaluare",
+    "sale": "Reducere",
+    "outOfStock": "Momentan indisponibil",
+    "sku": "SKU"
+  },
+  "shop": {
+    "title": "Toate produsele",
+    "searchPlaceholder": "Caută produse...",
+    "filters": "Filtre",
+    "sortBy": "Sortează după",
+    "newest": "Cele mai noi",
+    "bestSelling": "Cele mai vândute",
+    "highestRated": "Cele mai bine evaluate",
+    "priceLowHigh": "Preț: crescător",
+    "priceHighLow": "Preț: descrescător",
+    "discount": "La reducere",
+    "noResults": "Nu s-au găsit produse care să corespundă criteriilor.",
+    "showing": "Se afișează {count} produse",
+    "clearFilters": "Șterge filtrele"
+  },
+  "cart": {
+    "title": "Coș de cumpărături",
+    "empty": "Coșul tău este gol.",
+    "continueShopping": "Continuă cumpărăturile",
+    "subtotal": "Subtotal",
+    "total": "Total",
+    "checkout": "Finalizează comanda",
+    "remove": "Șterge",
+    "quantity": "Cantitate",
+    "item": "Produs",
+    "price": "Preț"
+  },
+  "checkout": {
+    "title": "Finalizare comandă",
+    "customerInfo": "Informații client",
+    "name": "Nume complet",
+    "email": "Adresă de email",
+    "country": "Țară",
+    "orderSummary": "Rezumat comandă",
+    "promoCode": "Cod promoțional / reducere",
+    "apply": "Aplică",
+    "paymentMethod": "Metodă de plată",
+    "stripe": "Card credit / debit (Stripe)",
+    "paypal": "PayPal",
+    "terms": "Sunt de acord cu Termenii și Condițiile și Politica de returnare",
+    "placeOrder": "Plasează comanda",
+    "secure": "Plată securizată – Datele tale sunt protejate",
+    "processing": "Se procesează...",
+    "note": "Procesarea plăților necesită credențiale reale Stripe / PayPal. Aceasta este o demonstrație frontend."
+  },
+  "account": {
+    "title": "Contul meu",
+    "orders": "Comenzile mele",
+    "downloads": "Descărcările mele",
+    "profile": "Profil",
+    "loginTitle": "Autentificare",
+    "registerTitle": "Creează cont",
+    "email": "Email",
+    "password": "Parolă",
+    "confirmPassword": "Confirmă parola",
+    "forgotPassword": "Ai uitat parola?",
+    "noAccount": "Nu ai cont?",
+    "hasAccount": "Ai deja cont?",
+    "loginBtn": "Autentifică-te",
+    "registerBtn": "Creează cont",
+    "logoutBtn": "Deconectare",
+    "updateProfile": "Actualizează profilul",
+    "orderHistory": "Istoric comenzi",
+    "noOrders": "Nu ai nicio comandă încă.",
+    "download": "Descarcă",
+    "expires": "Linkul expiră",
+    "note": "Sistemul de conturi necesită autentificare backend. Modul demo folosește localStorage."
+  },
+  "order": {
+    "confirmation": "Comandă confirmată!",
+    "thankYou": "Mulțumim pentru cumpărături.",
+    "orderNumber": "Număr comandă",
+    "downloads": "Descărcările tale",
+    "downloadNow": "Descarcă acum",
+    "emailSent": "Un email de confirmare cu linkurile de descărcare a fost trimis în inbox.",
+    "failed": "Plata a eșuat",
+    "tryAgain": "Te rugăm să încerci din nou sau să contactezi suportul."
+  },
+  "faq": {
+    "title": "Întrebări frecvente",
+    "q1": "Cum primesc produsul?",
+    "a1": "După plata reușită vei primi un email cu linkuri securizate de descărcare. Poți accesa achizițiile și din Contul meu → Descărcările mele.",
+    "q2": "Produsele sunt digitale?",
+    "a2": "Da. Toate produsele sunt descărcări digitale. Nu se expediază articole fizice.",
+    "q3": "Pot folosi produsele pe telefon?",
+    "a3": "Majoritatea produselor sunt PDF sau formate comune compatibile cu telefoane, tablete și computere. Verifică pagina produsului pentru detalii.",
+    "q4": "Când primesc descărcarea?",
+    "a4": "Imediat după confirmarea plății. Descărcările sunt disponibile în câteva secunde.",
+    "q5": "Pot descărca produsul de mai multe ori?",
+    "a5": "Da. Poți redescărca fișierele din contul tău pentru o perioadă limitată, conform licenței.",
+    "q6": "Ce metode de plată acceptați?",
+    "a6": "Acceptăm carduri de credit/debit prin Stripe și PayPal. Alte metode pot fi adăugate ulterior.",
+    "q7": "Pot primi rambursare?",
+    "a7": "Datorită naturii produselor digitale, rambursările se gestionează conform Politicii de returnare. Te rugăm să o citești înainte de cumpărare.",
+    "q8": "Cum contactez suportul?",
+    "a8": "Trimite-ne un email la support@example.com sau folosește formularul de contact. Răspundem de obicei în 24–48 de ore."
+  },
+  "contact": {
+    "title": "Contactează-ne",
+    "subtitle": "Suntem aici să te ajutăm. Trimite-ne un mesaj și îți vom răspunde cât mai curând.",
+    "name": "Nume",
+    "email": "Email",
+    "subject": "Subiect",
+    "message": "Mesaj",
+    "send": "Trimite mesajul",
+    "support": "Suport clienți",
+    "emailLabel": "Email",
+    "success": "Mesajul a fost trimis cu succes. Îți vom răspunde în curând.",
+    "note": "Formularul de contact necesită configurarea unui serviciu de email backend."
+  },
+  "about": {
+    "title": "Despre DIGITAL VAULT",
+    "p1": "DIGITAL VAULT creează produse digitale practice care îi ajută pe oameni să lucreze mai inteligent, să rămână organizați și să obțină mai mult.",
+    "p2": "De la planificatoare și template-uri până la prompturi AI și ghiduri de business, fiecare produs este conceput pentru utilitate reală.",
+    "p3": "Servim clienți din întreaga lume cu livrare digitală instantanee și accent pe calitate și claritate."
+  },
+  "newsletter": {
+    "title": "Primește resurse digitale gratuite & oferte speciale",
+    "placeholder": "Introdu adresa de email",
+    "button": "ABONEAZĂ-TE",
+    "success": "Mulțumim pentru abonare!",
+    "note": "Newsletter-ul necesită integrare Mailchimp / Brevo / ConvertKit."
+  },
+  "footer": {
+    "shop": "Magazin",
+    "categories": "Categorii",
+    "about": "Despre",
+    "contact": "Contact",
+    "faq": "Întrebări",
+    "privacy": "Politica de confidențialitate",
+    "terms": "Termeni și condiții",
+    "refund": "Politica de returnare",
+    "cookies": "Politica cookie",
+    "license": "Licență digitală",
+    "findUs": "Găsește-ne online",
+    "etsy": "Cumpără pe Etsy",
+    "payhip": "Cumpără pe Payhip",
+    "copyright": "© 2026 DIGITAL VAULT. Toate drepturile rezervate.",
+    "tagline": "Produse Digitale Inteligente pentru Viața Modernă"
+  },
+  "legal": {
+    "privacyTitle": "Politica de confidențialitate",
+    "termsTitle": "Termeni și condiții",
+    "refundTitle": "Politica de returnare",
+    "cookieTitle": "Politica cookie",
+    "licenseTitle": "Licență produs digital"
+  },
+  "errors": {
+    "404Title": "Pagină negăsită",
+    "404Message": "Pagina pe care o cauți nu există sau a fost mutată.",
+    "500Title": "Ceva nu a mers bine",
+    "500Message": "Am întâmpinat o eroare neașteptată. Te rugăm să încerci din nou mai târziu.",
+    "emptyCart": "Coșul tău este gol.",
+    "noProducts": "Nu există produse în această categorie.",
+    "downloadUnavailable": "Această descărcare nu mai este disponibilă sau a expirat.",
+    "invalidDownload": "Link de descărcare invalid sau expirat.",
+    "loginError": "Email sau parolă invalidă.",
+    "registerError": "Nu s-a putut crea contul. Te rugăm să încerci din nou.",
+    "paymentFailed": "Plata nu a putut fi procesată.",
+    "backHome": "Înapoi la pagina principală"
+  },
+  "cookie": {
+    "message": "Folosim cookie-uri pentru a îmbunătăți experiența ta și a analiza traficul. Poți gestiona preferințele.",
+    "accept": "Acceptă toate",
+    "reject": "Respinge non-esențiale",
+    "settings": "Setări cookie",
+    "save": "Salvează preferințele"
+  },
+  "currency": {
+    "eur": "EUR €",
+    "usd": "USD $",
+    "gbp": "GBP £",
+    "ron": "RON lei"
+  },
+  "common": {
+    "loading": "Se încarcă...",
+    "save": "Salvează",
+    "cancel": "Anulează",
+    "close": "Închide",
+    "yes": "Da",
+    "no": "Nu",
+    "or": "sau",
+    "and": "și",
+    "from": "de la",
+    "to": "la"
+  }
+}
